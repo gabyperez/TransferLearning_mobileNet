@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>58.jpg</filename>
+	<path>C:\Users\agust\Documents\ia\models\research\object_detection\images\train\58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spaguetti canale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>606</xmin>
+			<ymin>470</ymin>
+			<xmax>2831</xmax>
+			<ymax>1972</ymax>
+		</bndbox>
+	</object>
+</annotation>

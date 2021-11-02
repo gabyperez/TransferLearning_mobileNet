@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'spaguetti matarazzo'
+}
+
+item {
+  id: 2
+  name: 'polenta presto pronta 750g'
+}
+
+item {
+  id: 3
+  name: 'spaguetti canale'
+}

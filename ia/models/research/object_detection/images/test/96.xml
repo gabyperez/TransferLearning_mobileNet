@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>96.jpg</filename>
+	<path>C:\Users\agust\Documents\ia\models\research\object_detection\images\train\96.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>polenta presto pronta 750g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>757</xmin>
+			<ymin>482</ymin>
+			<xmax>1374</xmax>
+			<ymax>1040</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>25.jpg</filename>
+	<path>C:\Users\agust\Documents\ia\models\research\object_detection\images\train\25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spaguetti matarazzo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>829</xmin>
+			<ymin>387</ymin>
+			<xmax>3489</xmax>
+			<ymax>3024</ymax>
+		</bndbox>
+	</object>
+</annotation>
